@@ -67,7 +67,7 @@ Password-Strength-Checker/
 ---
 ## web page outlook
 
-<img src="password webpage.png" height="20px" > 
+<img src="password webpage.png" height="50px" > 
 
 ---
 
