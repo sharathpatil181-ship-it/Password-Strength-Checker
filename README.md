@@ -90,7 +90,7 @@ Go inside the folder
 Simply open
 
 ```
-index.html
+structure.html
 ```
 
 in any web browser.
