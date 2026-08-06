@@ -66,9 +66,9 @@ Password-Strength-Checker/
 
 ---
 ## web page
-
- <img src="password webpage.png" height="200px" > image
-
+<a href='password webpage.png'>
+ <img src="password webpage.png" height="200px" > 
+</a>
 ---
 
 ## ▶️ Installation
