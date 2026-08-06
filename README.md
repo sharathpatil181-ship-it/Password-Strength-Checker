@@ -65,6 +65,11 @@ Password-Strength-Checker/
 4. If every condition is satisfied, the password is marked as **Strong**.
 
 ---
+## web page
+
+ <img src="Screenshot 2026-08-04 222340.png" height="200px"> 
+
+---
 
 ## ▶️ Installation
 
@@ -76,9 +81,7 @@ https://github.com/sharathpatil181-ship-it/Password-Strength-Checker/tree/main
 
 Go inside the folder
 
-```bash
-cd Password-Strength-Checker
-```
+
 
 ---
 
@@ -103,8 +106,6 @@ python password_checker.py
 ```
 
 
-
----
 
 ##  Output
 
