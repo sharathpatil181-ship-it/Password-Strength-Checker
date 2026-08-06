@@ -67,7 +67,7 @@ Password-Strength-Checker/
 ---
 ## web page
 
- <img src="Screenshot 2026-08-04 222340.png" height="200px"> 
+ <imgsrc="Screenshot 2026-08-04 222340.png" height="200px" > image
 
 ---
 
