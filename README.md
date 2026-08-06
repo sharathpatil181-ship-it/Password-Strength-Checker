@@ -65,10 +65,10 @@ Password-Strength-Checker/
 4. If every condition is satisfied, the password is marked as **Strong**.
 
 ---
-## web page
-<a href='password webpage.png'>
-<img src="password webpage.png" height="20px" > image 
-</a>
+## web page outlook
+
+<img src="password webpage.png" height="20px" > 
+
 ---
 
 ## ▶️ Installation
