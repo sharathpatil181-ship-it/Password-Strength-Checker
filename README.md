@@ -66,9 +66,8 @@ Password-Strength-Checker/
 
 ---
 ## web page
-<a href='https://github.com/sharathpatil181-ship-it/Password-Strength-Checker/blob/main/password%20webpage.png'>
-
- 
+<a href='password webpage.png'>
+<img src="password webpage.png" height="20px" > image 
 </a>
 ---
 
