@@ -70,7 +70,7 @@ Password-Strength-Checker/
 
 ### Clone Repository
 
-```bash
+```
 https://github.com/sharathpatil181-ship-it/Password-Strength-Checker/tree/main
 ```
 
@@ -102,15 +102,11 @@ Run
 python password_checker.py
 ```
 
-or
 
-```bash
-python3 password_checker.py
-```
 
 ---
 
-## 📸 Output
+##  Output
 
 ### Weak Password
 
